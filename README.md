@@ -1,6 +1,6 @@
 # MPChartDemo
 使用开源框架MPAndroidChart绘制图表<br/>
-参考文档
+参考文档<br/>
 <a href="http://blog.csdn.net/dapangzao/article/details/74949541">MPAndroidChart使用详解</a><br/>
 <a href="http://blog.csdn.net/wjk343977868/article/details/53316981">Android之MPAndroidChart库使用说明（柱状图、折线图、饼图和组合图.）</a><br/>
 <a href="http://blog.csdn.net/shineflowers/article/details/44704723">MPAndroidChart开源图表库（二）之折线图</a><br/>
